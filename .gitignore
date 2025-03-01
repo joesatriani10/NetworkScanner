@@ -1,0 +1,21 @@
+# Rider
+.idea/
+.idea_modules/
+*.iml
+*.DotSettings.user
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs, database, and backups
+*.log
+*.bak
+*.db
